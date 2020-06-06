@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\spdlog\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\RapidJSON\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="playground">
-				<Option output="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/playground.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug"/>
+				<Option output="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/playground.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -43,15 +43,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="playground/fast">
-				<Option output="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/playground.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug"/>
+				<Option output="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/playground.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -65,57 +65,57 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/main.cpp">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/main.cpp">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/pokemans/Pokedex.cc">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/Pokedex.cc">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/pokemans/Pokedex.h">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/Pokedex.h">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/pokemans/PokemanStats.cc">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/PokemanStats.cc">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/pokemans/PokemanStats.h">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/PokemanStats.h">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfig.cmake">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\spdlog\"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfigTargets-release.cmake">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfigTargets-release.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\spdlog\"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfigTargets.cmake">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfigTargets.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\spdlog\"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfigVersion.cmake">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/../../../../../../usr/local/lib/cmake/spdlog/spdlogConfigVersion.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\spdlog\"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/../../../../../../usr/local/lib/cmake/RapidJSON/rapidJsonConfig.cmake">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/../../../../../../usr/local/lib/cmake/RapidJSON/rapidJsonConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\RapidJSON\"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/../../../../../../usr/local/lib/cmake/RapidJSON/rapidJsonConfigVersion.cmake">
+		<Unit filename="/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/../../../../../../usr/local/lib/cmake/RapidJSON/rapidJsonConfigVersion.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\RapidJSON\"/>
 		</Unit>
 	</Project>

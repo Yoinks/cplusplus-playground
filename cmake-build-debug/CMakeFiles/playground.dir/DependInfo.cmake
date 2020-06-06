@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/main.cpp" "/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/CMakeFiles/playground.dir/main.cpp.o"
-  "/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/pokemans/Pokedex.cc" "/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/CMakeFiles/playground.dir/pokemans/Pokedex.cc.o"
-  "/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/pokemans/PokemanStats.cc" "/cygdrive/c/Users/Yoink/CLionProjects/playground-c++/cmake-build-debug/CMakeFiles/playground.dir/pokemans/PokemanStats.cc.o"
+  "/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/main.cpp" "/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/CMakeFiles/playground.dir/main.cpp.o"
+  "/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/Pokedex.cc" "/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/CMakeFiles/playground.dir/pokemans/Pokedex.cc.o"
+  "/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/PokemanStats.cc" "/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/cmake-build-debug/CMakeFiles/playground.dir/pokemans/PokemanStats.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
