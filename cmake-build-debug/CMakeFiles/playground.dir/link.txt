@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/playground.dir/main.cpp.o CMakeFiles/playground.dir/pokemans/Pokedex.cc.o CMakeFiles/playground.dir/pokemans/PokemanStats.cc.o  -o playground.exe -Wl,--out-implib,libplayground.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
