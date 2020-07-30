@@ -12,14 +12,6 @@ iostream
 pokemans/Pokedex.h
 /cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/Pokedex.h
 
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/Pokedex.cc
-Pokedex.h
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/Pokedex.h
-rapidjson/writer.h
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/rapidjson/writer.h
-rapidjson/stringbuffer.h
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/rapidjson/stringbuffer.h
-
 /cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/Pokedex.h
 PokemanStats.h
 /cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/PokemanStats.h
@@ -29,14 +21,6 @@ rapidjson/stringbuffer.h
 /cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/rapidjson/stringbuffer.h
 string
 -
-
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/PokemanStats.cc
-PokemanStats.h
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/PokemanStats.h
-rapidjson/writer.h
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/rapidjson/writer.h
-rapidjson/stringbuffer.h
-/cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/rapidjson/stringbuffer.h
 
 /cygdrive/c/Users/Yoink/CLionProjects/playground-cpp/pokemans/PokemanStats.h
 rapidjson/writer.h

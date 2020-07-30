@@ -11,5 +11,6 @@ int main() {
             1, "fartface",PokemanStats(1,2,3));
 
     pokeDex.Serialize(writer);
+    writer.Reset(s);
     std::cout << s.GetString() << std::endl;
 }
